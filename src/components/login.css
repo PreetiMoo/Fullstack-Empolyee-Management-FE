@@ -1,0 +1,58 @@
+
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .login-container {
+    background-color: #f8f9fa; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    width: 300px; 
+    text-align: center; 
+}
+
+h2 {
+    margin-bottom: 15px; 
+}
+
+.form-group {
+    margin-bottom: 15px; 
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%; 
+    padding: 10px;
+    border: 1px solid #ced4da; 
+    border-radius: 4px; 
+}

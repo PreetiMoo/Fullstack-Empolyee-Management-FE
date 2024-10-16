@@ -1,0 +1,10 @@
+.dropdown-wrapper {
+    position: relative;
+}
+
+.dropdown-wrapper select {
+    appearance: none; 
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABVElEQVR42mL8//8/A2dAEIYFQEJIMUAGWkFmAhMAYggZjAwFxGEKNgIAAAAASUVORK5CYII=') no-repeat right 10px center; 
+    background-size: 10px 10px; 
+    padding-right: 20px; 
+}
